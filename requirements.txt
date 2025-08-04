@@ -1,0 +1,7 @@
+Flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+requests==2.31.0
+python-whois==0.8.0
+gunicorn==21.2.0
+sherlock-project==0.15.0 
